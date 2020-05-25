@@ -1,0 +1,6 @@
+2020-04-29T14:59:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\noithatmihome.com\wp-includes\pomo\entry.php on line 43
+
+2020-04-29T17:12:53+00:00 CRITICAL syntax error, unexpected 'get_woocommerce_term_meta' (T_STRING) in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 827
+
+2020-04-29T19:14:14+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 824
+

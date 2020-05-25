@@ -1,0 +1,20 @@
+2020-04-30T14:34:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\noithatmihome.com\wp-includes\pomo\entry.php on line 61
+
+2020-04-30T14:47:33+00:00 CRITICAL syntax error, unexpected '.' in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 818
+
+2020-04-30T14:47:55+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 818
+
+2020-04-30T14:48:05+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 818
+
+2020-04-30T14:48:20+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 818
+
+2020-04-30T16:43:42+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 817
+
+2020-04-30T16:43:42+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 817
+
+2020-04-30T16:44:46+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\themes\vpw_theme\inc\home-widget.php on line 818
+
+2020-04-30T17:04:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\noithatmihome.com\wp-includes\class-wp-image-editor-gd.php on line 16
+
+2020-04-30T17:50:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\noithatmihome.com\wp-content\plugins\jetpack\_inc\lib\core-api\wpcom-fields\post-fields-publicize-connections.php on line 25
+
